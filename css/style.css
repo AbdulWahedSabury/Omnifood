@@ -220,3 +220,8 @@ background-color: #cf711f;
   color: #e67e22;
   font-size: 3rem;
 }
+/* all-recipes Link */
+.all-recipes{
+  text-align: center;
+  font-size: 1.8rem;
+}
